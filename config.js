@@ -1,7 +1,7 @@
 const CONFIG = {
     valentineName: "Nabila",
 
-    pageTitle: "Do You Still Remember Me? 💭",
+    pageTitle: "Do You Still Remember Me? ",
 
     floatingEmojis: {
         hearts: ['❤️', '💖', '💓'],  // Removed broken heart
@@ -18,10 +18,10 @@ const CONFIG = {
         second: {
             text: "Did you ever think of us?",
             startText: "This much ❤️",
-            nextBtn: "Next 💭"
+            nextBtn: "Next❤️"
         },
         third: {
-            text: "Will you promise a never-ending friendship with me? 🌟",
+            text: "Will you promise a never-ending friendship with me?🥹",
             yesBtn: "Yes!",         // Correct button
             noBtn: "No",             // Fake button
             secretAnswer: "I knew we’d always stay close… 💖", // Shows if Yes clicked
@@ -31,14 +31,14 @@ const CONFIG = {
 
     loveMessages: {
         extreme: "You loved me that much?? 🥰",
-        high: "To infinity… or at least for some moments 💭💖",
+        high: "To infinity… or at least for some moments 💖",
         normal: "I still think of you sometimes… ❤️"
     },
 
     celebration: {
         title: "I guess some memories never fade… 💭💖",
         message: "No matter the distance or silence, you’ll always matter.",
-        emojis: "💖💭🧸❤️"
+        emojis: "💖"
     },
 
     colors: {
